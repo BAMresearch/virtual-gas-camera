@@ -1,3 +1,5 @@
+# Copyright (c) 2023 Bundesanstalt für Materialforschung und -prüfung, see LICENSE file
+# This implements the virtual gas camera. See README.md for details.
 # partly based on:
 # https://stackoverflow.com/questions/76725481/streaming-video-from-opencv-through-gstreamer-to-vlc-via-rtsp
 # the simplebgc library is taken from:

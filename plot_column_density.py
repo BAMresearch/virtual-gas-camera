@@ -1,3 +1,6 @@
+# Copyright (c) 2023 Bundesanstalt für Materialforschung und -prüfung, see LICENSE file
+# simple script to plot experimental results in more detail
+
 import json
 import matplotlib.pyplot as plt
 import numpy as np

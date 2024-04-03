@@ -1,3 +1,7 @@
+# Copyright (c) 2023 Bundesanstalt für Materialforschung und -prüfung, see LICENSE file
+# Simple script to test the Laser Falcon connection by printing version/setting and
+# then outputting measurement results in a loop. For more complex tasks use ./laserfalcon/device.py.
+
 import serial
 from time import sleep  
 

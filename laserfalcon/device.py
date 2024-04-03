@@ -1,3 +1,5 @@
+# Copyright (c) 2023 Bundesanstalt für Materialforschung und -prüfung, see LICENSE file
+# Class for representing and using a Laser Falcon methane measurement device.
 
 import serial
 from time import sleep 
