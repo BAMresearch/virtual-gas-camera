@@ -3,7 +3,7 @@ This is the software repository for the so-called 'virtual gas camera' associate
 
 **If you use code from this repo or base your work on it**, we kindly ask you to include a citation to our paper 'Robotic Scanning Absorption Spectroscopy for Methane Leak Detection: the Virtual Gas Camera'. Detailed reference information will be added when the paper has been published.
 
-The documentation will be extended prior to paper publication, but the published code is already operational. Still you should consider this repo a work-in-progress at the moment. The code is ecperimental in any case and comes with no warranty whatsoever.
+The documentation will be extended prior to paper publication, but the published code is already operational. Still you should consider this repo a work-in-progress at the moment. The code is experimental in any case and comes with no warranty whatsoever.
 
 In case of bugs, problems, or questions feel free to open an [issue](https://github.com/BAMresearch/virtual-gas-camera/issues/new).
 
