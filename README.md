@@ -15,7 +15,7 @@ The virtual gas camera is a software project which allows users of typical gas t
 <img src="./docs/example_measurement_overlay.png" height=240>
 </p>
 
-Apart from the generation of overlay images in the field, the virtual gas camera also provides a live video feed. For details please see the paper. *(TODO: add link when paper is published)*. A typical field measurement is shown below.
+Apart from the generation of overlay images in the field, the virtual gas camera also provides a live video feed. For details please see the paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/10556012) or [here](Lohrke_ISOEN_2024_accepted_repo_copyright_notice.pdf). A typical field measurement is shown below.
 
 <p align="center">
 <img src="./docs/example_measurement_setup.png"  height= 300 >
