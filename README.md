@@ -1,7 +1,7 @@
 # Virtual Gas Camera Repository
 This is the software repository for the so-called 'virtual gas camera' associated with the paper 'Robotic Scanning Absorption Spectroscopy for Methane Leak Detection: the Virtual Gas Camera'.
 
-**If you use code from this repo or base your work on it**, we kindly ask you to include a citation to our paper 'Robotic Scanning Absorption Spectroscopy for Methane Leak Detection: the Virtual Gas Camera'. Detailed reference information will be added when the paper has been published.
+**If you use code from this repo or base your work on it**, we kindly ask you to include a citation to our paper 'Robotic Scanning Absorption Spectroscopy for Methane Leak Detection: the Virtual Gas Camera'. Detailed reference information along with the final version of the paper can be found on [IEEE Xplore](https://ieeexplore.ieee.org/document/10556012). The accepted submitted (not final) version is available in conformance with IEEE policies [here](Lohrke_ISOEN_2024_accepted_repo_copyright_notice.pdf).
 
 Please consider this repo a proof-of-concept example. The code is experimental and comes with no warranty whatsoever.
 
